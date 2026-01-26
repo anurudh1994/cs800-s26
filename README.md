@@ -6,7 +6,7 @@ Dr. Michael L. Nelson: mln at cs.odu.edu, <https://www.cs.odu.edu/~mln/>
 
 [Course Syllabus](syllabus.md)
 
-Class email list: https://groups.google.com/g/cs800-s26
+Class email list: https://groups.google.com/group/cs800-s26
 
 CRN 32738
 
