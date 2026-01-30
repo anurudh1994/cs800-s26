@@ -3,6 +3,14 @@
 ## Description
 This is the implementation of `learnyouhtml`.
 
+## Topics Covered
+* HTML
+    * Boilerplate HTML
+    * Tags Attributes
+    * Tables & Lists
+    * Links
+
+
 ## Directory
 ```text
 Rahman
@@ -33,4 +41,4 @@ Rahman
 ![After](imgs/done%20A1.png)
 
 ## Completion Link
-YouTube: [https://youtu.be/G22rfYGr-4Q](https://youtu.be/G22rfYGr-4Q)
+YouTube Video Link: [https://youtu.be/G22rfYGr-4Q](https://youtu.be/G22rfYGr-4Q)
