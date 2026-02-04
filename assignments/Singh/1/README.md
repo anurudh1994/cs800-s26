@@ -16,6 +16,10 @@ This assignment covers the initial setup, Git/GitHub usage, basic html exercises
 
 The screenshoot:
 
+!\[learnyouhtml workshop completion](A1\_assignment.jpg)
+
+
+
 \## YouTube Video Demonstration
 
 Watch the complete demonstration: \[YouTube Video Link](https://youtu.be/xp9nUp8BlNs)
