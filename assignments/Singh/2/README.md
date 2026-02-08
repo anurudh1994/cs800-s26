@@ -22,7 +22,7 @@ The components include:
 ### **2.1 Google Scholar**
 - **Profile link:** [Anurudh Singh](https://scholar.google.com/citations?user=imXYteMAAAAJ&hl=en)
 - **Screenshot:**  
-  ![Google Scholar](images/Google Scholar.jpg)
+  ![Google Scholar](images/google.jpg)
 - **Faculty/Researchers followed:**
   1. Faculty 1 (ODU)
   2. Faculty 2 (ODU)
@@ -86,4 +86,5 @@ The components include:
 - All accounts include profile pictures and filled bios.
 - Repository structure is organized for easy navigation.
 - Links are bi-directional where applicable.
+
 
