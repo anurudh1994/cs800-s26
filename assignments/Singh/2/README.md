@@ -67,8 +67,7 @@ The components include:
 ---
 
 ## **6. Responsible Conduct of Research (RCR)**
-- **Certificate PDF:**  
-  ![RCR Certificate](citi_course.pdf)
+- **Certificate PDF:**  [RCR Certificate](citi_course.pdf)
 - **Completion Notes:** Completed "Responsible Conduct of Research for Engineers" modules at ODU.
 
 ---
@@ -83,6 +82,7 @@ The components include:
 - All accounts include profile pictures and filled bios.
 - Repository structure is organized for easy navigation.
 - Links are bi-directional where applicable.
+
 
 
 
