@@ -208,7 +208,7 @@ The authors explore the concept of honeypots as a flexible security tool that ca
 The paper addresses the critical vulnerability of modern networks to Distributed Denial of Service (DDoS) attacks.
 - **Reactive Failure:** Conventional security measures are often reactive, meaning they only trigger after an attack has already impacted the production environment.
 - **Attacker Anonymity:** Attackers often hide their true identities and tactics, making it difficult for defenders to learn and adapt to new threat vectors in real-time.
-  - **Resource Exhaustion:** Standard firewalls and IDS can become overwhelmed by the sheer volume of DDoS traffic, leading to service outages for legitimate users.
+- **Resource Exhaustion:** Standard firewalls and IDS can become overwhelmed by the sheer volume of DDoS traffic, leading to service outages for legitimate users.
 
 
 ## Approach
@@ -289,4 +289,5 @@ The study provides several key contributions to the field of deceptive security:
 
 ## Marked-up PDF : [View Marked-up PDF](papers/paper5_Deceptive_honeynet.pdf)
 
+# YouTube Video Link: 
 
