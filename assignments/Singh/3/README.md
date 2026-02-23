@@ -19,7 +19,9 @@ My research focuses on Honeypots, honeynets, and deception-based defense mechani
 ## Paper 1: *Implementation of Honeynet and Honeypot in Network Infrastructure in Production Network*
 
 **Reference:**  
-Provos, N., & Holz, T. *Virtual Honeypots: From Botnet Tracking to Intrusion Detection*. Addison-Wesley Professional, 2007.
+
+- S. Rathore, P. K. Sharma, V. Loia, Y.-S. Jeong, and J. H. Park, “Social network security: Issues, challenges, threats, and solutions,” Information sciences, vol. 421, pp. 43–69, 2017.
+- H. Lin, Z. Yan, Y. Chen, and L. Zhang, “A survey on network securityrelated data collection technologies,” IEEe Access, vol. 6, pp. 18 34518 365, 2018.
 
 **Link:** http://arxiv.org/abs/2512.07180  
 **DOI:** 10.48550/arXiv.2512.07180
@@ -71,5 +73,5 @@ Provos, N., & Holz, T. *Virtual Honeypots: From Botnet Tracking to Intrusion Det
 ## Screenshot (Page 1)
 ![Paper 1 Page 1](screenshots/paper1_page1.png)
 
-## Marked-up PDF
-[View Marked-up PDF](papers/paper1_implementation_honeynet.pdf)
+## Marked-up PDF : [View Marked-up PDF](papers/paper1_implementation_honeynet.pdf)
+
