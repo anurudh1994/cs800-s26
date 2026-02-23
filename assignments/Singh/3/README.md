@@ -75,3 +75,73 @@ My research focuses on Honeypots, honeynets, and deception-based defense mechani
 
 ## Marked-up PDF : [View Marked-up PDF](papers/paper1_implementation_honeynet.pdf)
 
+## Paper 2: *A comprehensive survey on cyber deception techniques to improve honeypot performance*
+
+**Reference:**  
+
+- N.C. Abay, C.G. Akcora, Y. Zhou, M. Kantarcioglu, B. Thuraisingham
+Using deep learning to generate relational honeydata
+Autonomous Cyber Deception, Springer (2019), pp. 3-19
+
+**Link:** https://doi.org/10.1016/j.cose.2024.103792  
+
+```bibtex
+@article{javadpour2024comprehensive,
+  title={A comprehensive survey on cyber deception techniques to improve honeypot performance},
+  author={Javadpour, Amir and Ja'fari, Forough and Taleb, Tarik and Shojafar, Mohammad and Benza{\"\i}d, Chafika},
+  journal={Computers \& Security},
+  volume={140},
+  pages={103792},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+# 1st Pass (Keshav)
+
+## Problem
+The document identifies several challenges in the field of honeypots and honeynets:
+### 1. Evolving Cyber Threats: 
+- Attackers are constantly developing new techniques to detect and bypass honeypots, making it difficult to maintain their effectiveness. 
+### 2. Lack of Comprehensive Evaluation: 
+- Existing research lacks a standardized framework for evaluating honeypot performance and deception techniques. 
+### 3. Limited Focus on Emerging Technologies: 
+- Current honeypot research often overlooks specific vulnerabilities and services in modern environments like Software-Defined Networking (SDN), cloud computing, and 5G networks. 
+### Research Gaps: 
+- There is insufficient exploration of advanced deception techniques, botnet-specific honeypots, distributed honeypots, and the impact of vulnerability types on honeynet effectiveness. 
+
+## Approach
+The survey adopts a systematic approach to address these challenges:
+### 1. Categorization of Honeypots: 
+- Honeypots are classified based on their purpose, interaction level, implementation, activity, operation, and uniformity. 
+### 2. Deception Techniques: 
+- The paper explores and categorizes various deception techniques for single honeypots and honeynets, including advanced mimicking, fake cooperation, deceptive databases, subtle interruptions, honeytoken baiting, and traffic redirection. 
+### 3. Mathematical Modeling: 
+- A general mathematical model is proposed to analyze honeynets, enabling comparison of different deception techniques and strategies. 
+### 4. Simulation Experiments: 
+- Python-based simulations are conducted to evaluate the effectiveness of key deception techniques in various network scenarios. 
+### 5. Evaluation Metrics: 
+- A set of metrics is proposed to measure honeypot performance, including intrusion detection rate, engagement rate, time to compromise, and more.
+### 6. Recommendations for Future Research: 
+- The paper identifies open issues and suggests areas for further investigation, such as SDN-based honeypots, 5G-specific honeypots, and machine learning-based honeynet optimization.
+
+
+## Contributions:
+### 1. Comprehensive Survey: 
+- The paper provides a detailed review of honeypot research over the past two decades, categorizing honeypots and honeynets based on various criteria.
+### 2. Deception Techniques: 
+- It introduces and categorizes six deception techniques for single honeypots and five for honeynets, offering insights into their implementation and effectiveness.
+### 3. Mathematical Model:
+- A novel general mathematical model is proposed to analyze honeynets and compare different deception techniques. 
+### 4. Simulation Results:
+- Empirical simulations are conducted to evaluate the performance of key deception techniques, providing actionable insights for researchers and practitioners. 
+### 5. Evaluation Framework: 
+- The paper suggests robust metrics and methodologies, including red-teaming experiments, to assess honeypot effectiveness comprehensively. 
+### 6. Future Research Directions: 
+- It identifies research gaps and provides recommendations for improving honeypot technologies, including the use of machine learning, addressing SDN and 5G vulnerabilities, and enhancing honeypot dynamization and topology shaping.
+
+
+## Screenshot (Page 1)
+![Paper 1 Page 1](screenshots/paper2_page1.png)
+
+## Marked-up PDF : [View Marked-up PDF](papers/paper2_deception_techniques.pdf)
