@@ -23,16 +23,18 @@ assignments/
 └── Singh/
     └── 4/
         ├── README.md
-        ├── review.pdf         # Compiled literature review
-        └── latex/
-            ├── review.tex    # LaTeX source file
-            ├── references.bib
-            └── figures/      # Optional: images or diagrams used in the review
+        ├── lit_review.pdf
+        └── papers      
+        └── LateX/
+            ├── litreview.tex  
+            ├── litreview.bib
+            
 
 ```
 - **lit_review.pdf** – Final compiled PDF of the literature review.
 - **litreview.tex** – LaTeX source used to generate the PDF.
 - **litreview.bib** – BibTeX file with all cited references.
+- **papers** - Research papers 
 
 
 ### YouTube Video Walkthrough
@@ -45,6 +47,7 @@ A video demonstrating:
 #### Link :
 
 Link: [PASTE_YOUR_YOUTUBE_LINK_HERE]
+
 
 
 
