@@ -20,7 +20,7 @@ CS 800, Spring 2026
 ```
 4/
 ├── README.md                           # This file
-├── CS800___lit_review___HW4___Dineth_Jayakody.pdf   # Compiled PDF submission
+├── CS800___HW4___Dineth_Jayakody.pdf   # Compiled PDF submission
 └── latex files/                        # LaTeX source files
     ├── litreview.tex                   # Main LaTeX document
     └── litreview.bib                   # BibTeX bibliography
@@ -32,7 +32,7 @@ CS 800, Spring 2026
 
 | File | Description |
 |------|-------------|
-| `CS800___lit_review___HW4___Dineth_Jayakody.pdf` | Final compiled PDF of the literature review |
+| `CS800___HW4___Dineth_Jayakody.pdf` | Final compiled PDF of the literature review |
 | `latex files/litreview.tex` | Main LaTeX source file containing Introduction, Summaries, Synthesis, and document structure |
 | `latex files/litreview.bib` | BibTeX bibliography file with entries for all five cited papers |
 
