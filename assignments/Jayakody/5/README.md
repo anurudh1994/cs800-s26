@@ -4,7 +4,7 @@
 
 ---
 
-# Deep Tissue Imaging: From DEEP to DEEP2
+# Deep Tissue Imaging: From DEEP to DEEP-squared
 
 ## Assignment description
 
@@ -13,14 +13,14 @@ This folder contains materials for **CS 800 – Research Methods (Assignment 5)*
 The selected papers are:
 
 1. **DEEP (2021)** – Introduces a computational imaging method for de-scattering in wide-field two-photon microscopy.
-2. **DEEP2 (2023)** – Extends DEEP using deep learning to significantly improve reconstruction speed and efficiency.
+2. **DEEP-squared (2023)** – Extends DEEP using deep learning to significantly improve reconstruction speed and efficiency.
 
 The presentation covers:
 
 - Fundamentals of **two-photon microscopy**
 - The **DEEP framework** (physics + optimization)
-- The **DEEP2 framework** (physics + deep learning)
-- A detailed explanation of **how DEEP2 builds upon DEEP**
+- The **DEEP-squared framework** (physics + deep learning)
+- A detailed explanation of **how DEEPsquared builds upon DEEP**
 
 ---
 
@@ -31,12 +31,12 @@ The presentation covers:
 ├── README.md
 └── papers/
     ├── DEEP_paper.pdf
-    └── DEEP2_paper.pdf
+    └── DEEP-squared_paper.pdf
 ```
 
 - **`papers/`** – Contains the two research papers used for this assignment:
   - DEEP paper (*Science Advances*, 2021)
-  - DEEP2 paper (*Light: Science & Applications*, 2023)
+  - DEEP-squared paper (*Light: Science & Applications*, 2023)
 
 ---
 
@@ -48,9 +48,9 @@ The presentation covers:
 **Authors:** Zheng et al.  
 **Venue:** *Science Advances*, 2021  
 
-### 2. DEEP2 (Paper 2)
+### 2. DEEP-squared (Paper 2)
 
-**Title:** DEEP²: Deep Learning Powered De-scattering with Excitation Patterning  
+**Title:** DEEPsquared: Deep Learning Powered De-scattering with Excitation Patterning  
 **Authors:** Wijethilake et al.  
 **Venue:** *Light: Science & Applications*, 2023  
 
@@ -79,11 +79,11 @@ The presentation covers:
 }
 ```
 
-### DEEP2 (2023)
+### DEEPsquared (2023)
 
 ```bibtex
 @article{wijethilake2023deep,
-  title={{DEEP}-squared: deep learning powered de-scattering with excitation patterning},
+  title={DEEPsquared: deep learning powered de-scattering with excitation patterning},
   author={Wijethilake, Navodini and Anandakumar, Mithunjha and Zheng, Cheng and So, Peter TC and Yildirim, Murat and Wadduwage, Dushan N},
   journal={Light: Science and Applications},
   volume={12},
@@ -98,7 +98,7 @@ The presentation covers:
 
 ## Relationship between the two papers
 
-The two papers are **directly connected**: DEEP2 builds upon DEEP.
+The two papers are **directly connected**: DEEPsquared builds upon DEEP.
 
 ### DEEP (2021)
 
@@ -107,7 +107,7 @@ The two papers are **directly connected**: DEEP2 builds upon DEEP.
 - Formulates image recovery as an **inverse optimization problem**
 - Requires **128–256 illumination patterns** and **iterative reconstruction**
 
-### DEEP2 (2023)
+### DEEP-squared (2023)
 
 - Extends DEEP by replacing optimization with **deep learning**
 - Learns the inverse mapping (X = f⁻¹(y))
@@ -117,15 +117,15 @@ The two papers are **directly connected**: DEEP2 builds upon DEEP.
 ### Key insight
 
 - DEEP defines the **forward imaging model**: \(y = f(X)\)
-- DEEP2 learns the **inverse mapping**: (X = f⁻¹(y))
+- DEEP-squared learns the **inverse mapping**: (X = f⁻¹(y))
 
-**Therefore:** DEEP2 depends on DEEP for the physics, forward model, and training data generation, and improves reconstruction using deep learning.
+**Therefore:** DEEP-squared depends on DEEP for the physics, forward model, and training data generation, and improves reconstruction using deep learning.
 
 ---
 
 ## Final takeaway
 
 - **DEEP** treats scattering as an **encoding problem**
-- **DEEP2** treats reconstruction as a **learning problem**
+- **DEEPsquared** treats reconstruction as a **learning problem**
 
 Together, they support **fast, high-resolution imaging through scattering biological tissue**.
