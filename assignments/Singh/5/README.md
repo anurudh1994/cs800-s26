@@ -31,13 +31,13 @@ Thus, the second paper cites the first because it provides the foundational fram
 @inproceedings{pijpker2023ship,
   author={Pijpker, Jeroen and McCombie, Stephen},
   title={A Ship Honeynet to Gather Cyber Threat Intelligence for the Maritime Sector},
-  booktitle={{IEEE} Conference},
+  booktitle={IEEE Conference},
   year={2023}
 }
 
 @inproceedings{brouwer2025honeyship,
   author={Brouwer, Stern and Pijpker, Jeroen and Mohsen, Fadi},
   title={HoneyShip: Unveiling Cyber Threats to Maritime {VSAT} Systems with a High-Interaction Honeypot},
-  booktitle={{IEEE} International Conference on Industrial Cyber-Physical Systems},
+  booktitle={IEEE International Conference on Industrial Cyber-Physical Systems},
   year={2025}
 }
